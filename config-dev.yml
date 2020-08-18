@@ -1,1 +1,3 @@
-spring-cloud-config 读取
+config:
+  info: "master branch, springcloud-config/ config-dev.yml version=1"
+
